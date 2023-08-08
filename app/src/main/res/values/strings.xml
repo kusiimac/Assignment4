@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vivi Calculator</string>
+    <string name="enter_first_number">Enter First Number</string>
+    <string name="enter_second_number">Enter Second Number</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">×</string>
+    <string name="divide">÷</string>
+    <string name="display_results">Display Results</string>
+</resources>
